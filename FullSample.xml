@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2016:1</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-02-26T06:53:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-12-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-01-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">15/02248</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:2465" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:2465, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2015:2737" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging met terugwijzen">In cassatie op : ECLI:NL:GHARL:2015:2737, (Gedeeltelijke) vernietiging met terugwijzen</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2016-0042</rdf:li>
+          <rdf:li>RvdW 2016/203</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:1">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:1</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-01-05T10:29:29</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-01-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2016:1 Hoge Raad , 05-01-2016 / 15/02248</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2016:1:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <para>Economische zaak. Einduitspraak. Art. 138 Sv. De beslissing van de Rb tot n-o verklaring van de OvJ in de vervolging is een einduitspraak i.d.z.v. art. 138 Sv, waartegen ingevolge art. 404.1 Sv h.b. open staat, ook als bedoeld vonnis niet voldoet aan de voorschriften van art. 358 en 359 Sv.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2016:1:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <uitspraak.info>
+        <para>5 januari 2016</para>
+        <para>Strafkamer</para>
+        <para>nr. S 15/02248 E</para>
+        <para>DAZ/SG</para>
+        <para> </para>
+        <para>Hoge Raad der Nederlanden</para>
+        <para />
+        <para>
+          <emphasis role="bold">Arrest</emphasis>
+        </para>
+        <parablock>
+          <para />
+          <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, Economische Kamer, van 16 april 2015, nummer 21/003699-14, in de strafzaak tegen:</para>
+        </parablock>
+        <para>
+          <emphasis role="underline">[verdachte 1]</emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1970.</para>
+        <para />
+      </uitspraak.info>
+      <section>
+        <title>
+          <nr>1</nr>Geding in cassatie</title>
+        <para />
+        <parablock>
+          <para>Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+          <para>De raadsman van de verdachte, mr. R.J. Baumgardt, advocaat te Spijkenisse, heeft het beroep tegengesproken.</para>
+        </parablock>
+        <parablock>
+          <para>	De Advocaat-Generaal G. Knigge heeft geconcludeerd tot vernietiging van het bestreden arrest en tot zodanige op art. 440 Sv gebaseerde beslissingen als de Hoge Raad gepast zal voorkomen.</para>
+        </parablock>
+        <para />
+      </section>
+      <section role="overwegingen">
+        <title>
+          <nr>2</nr>Beoordeling van het middel</title>
+        <para />
+        <paragroup>
+          <nr>2.1.</nr>
+          <para>Het middel klaagt dat het Hof de Officier van Justitie ten onrechte, althans onvoldoende gemotiveerd niet-ontvankelijk heeft verklaard in het ingestelde hoger beroep.</para>
+          <para />
+          <paragroup>
+            <nr>2.2.1.</nr>
+            <parablock>
+              <para>De Rechtbank Noord-Nederland heeft de Officier van Justitie niet-ontvankelijk verklaard in de vervolging. Het proces-verbaal van de terechtzitting van de Rechtbank van 12 juni 2014 houdt dienaangaande het volgende in:</para>
+              <para>"De rechtbank spreekt, verwijzend naar artikel 349, lid 3, van het Wetboek van Strafvordering en de meergenoemde arresten van de Hoge Raad der Nederlanden van 2 februari 2010, de niet-ontvankelijkheid van de officier van justitie uit aangezien hij heeft aangegeven niet te zullen meewerken aan het bevel dat door de rechtbank op 27 januari 2014 is gegeven om de informant(en) door de rechter-commissaris als getuigen te laten horen.</para>
+              <para>(...)</para>
+              <para>Artikel 349, lid 3, van het Wetboek van Strafvordering is gebiedend: de rechtbank spreekt de niet- ontvankelijkheid van de officier van justitie in zijn vervolging uit.</para>
+              <para>Er zal geen schriftelijk vonnis meer komen, nu deze uitspraak reeds mondeling door de rechtbank is gedaan. De appèltermijn zal vandaag dan ook gaan lopen voor de officier van justitie."</para>
+            </parablock>
+            <para />
+          </paragroup>
+          <paragroup>
+            <nr>2.2.2.</nr>
+            <parablock>
+              <para>Het Hof heeft de Officier van Justitie niet-ontvankelijk verklaard in het ingestelde hoger beroep. Het Hof heeft daartoe het volgende overwogen:</para>
+              <para>"De zaak is in eerste aanleg op 14 januari 2013, 27 januari 2014 en 12 juni 2014 ter zitting van de meervoudige economische kamer van de rechtbank behandeld. Op 14 januari 2013 en op 27 januari 2014 heeft de rechtbank het onderzoek ter zitting geschorst en de zaak verwezen naar de rechter-commissaris voor het horen van getuigen, dan wel benoemen van deskundigen.</para>
+              <para>Tijdens de behandeling op 12 juni 2014 heeft de meervoudige economische kamer vastgesteld dat de officier van justitie heeft verklaard geen medewerking te zullen verlenen aan het op 27 januari 2014 door de rechtbank gegeven bevel om de informanten die zijn bedoeld in drie CIE-verbalen te horen en evenmin een beroep te willen doen op toepassing van artikel 226a Sv. Nadat de officier van justitie om een heroverweging van dit bevel had gevraagd, heeft de rechtbank het bevel gehandhaafd, waarna de officier van justitie heeft verklaard bij zijn weigering te blijven.</para>
+              <para>Vervolgens heeft de rechtbank, onder verwijzing naar artikel 349, derde lid, Sv en jurisprudentie, de niet-ontvankelijkheid van de officier van justitie uitgesproken. De rechtbank heeft deze beslissing opgenomen in het zittingsproces-verbaal en daarin ook uitdrukkelijk vermeld dat er geen schriftelijk vonnis meer zal volgen, omdat de uitspraak al mondeling ter zitting door de rechtbank is gedaan.</para>
+              <para>Het hof ziet zich voor de vraag gesteld of de officier van justitie hoger beroep kon instellen tegen deze 'uitspraak' van de meervoudige economische kamer. Hierbij zijn de volgende wetsbepalingen van belang.</para>
+              <para>Ingevolge artikel 404, eerste lid, Sv staat tegen de vonnissen betreffende misdrijven, door de rechtbank als einduitspraak of in de loop van het onderzoek ter terechtzitting gewezen, hoger beroep open voor de officier van justitie bij het gerecht dat het vonnis heeft gewezen, en voor de verdachte die niet van de hele tenlastelegging is vrijgesproken.</para>
+              <para>Ingevolge artikel 406, eerste lid, Sv is tegen vonnissen die geen einduitspraken zijn, het hoger beroep slechts gelijktijdig met dat tegen de einduitspraak toegelaten.</para>
+              <para>Artikel 138 Sv bepaalt, voor zover hier van belang:</para>
+              <para>'Worden verstaan:</para>
+              <para>(...)</para>
+              <para>onder uitspraken de op de terechtzitting gegeven beslissingen;</para>
+              <para>onder einduitspraken de uitspraken tot schorsing der vervolging of tot verklaring van onbevoegdheid, niet-ontvankelijkheid of nietigheid van de dagvaarding, en die welke na afloop van het gehele onderzoek op de terechtzitting over de zaak worden gedaan.'</para>
+              <para>Artikel 358 Sv bepaalt, voor zover hier van belang:</para>
+              <para>'1. In de gevallen van artikel 349, eerste lid, bevat het vonnis de daarbij vermelde beslissingen.</para>
+              <para>(...)</para>
+              <para>5. Alles op straffe van nietigheid.'</para>
+              <para>Artikel 359 Sv bepaalt, voor zover hier van belang:</para>
+              <para>'1. Het vonnis bevat het ten laste gelegde alsmede de vordering van de officier van justitie.</para>
+              <para>2. De beslissingen vermeld in de artikelen 349, eerste lid, en 358, tweede en derde lid. zijn met redenen omkleed. Het vonnis geeft, indien de beslissing afwijkt van door de verdachte dan wel door de officier van justitie uitdrukkelijk onderbouwde standpunten, in het bijzonder de redenen op die daartoe hebben geleid.</para>
+              <para>(...)</para>
+              <para>8. Alles op straffe van nietigheid.'</para>
+              <para>Verder volgt uit de tekst en het systeem van de wet dat vonnissen van meervoudige strafkamers schriftelijk dienen te zijn. Alleen indien de wet daarin uitdrukkelijk in voorziet, mag de rechter mondeling vonnis wijzen. Dat is bijvoorbeeld het geval bij het rechtsgeding voor de politierechter (artikel 367 e.v. Sv, meer bepaald artikel 378 Sv).</para>
+              <para>Het hof is zich terdege bewust van de belangen die bij een voortvarende afdoening van deze zaak zijn gemoeid, maar dient hierbij, zonder nodeloos formalistisch te zijn, toe te zien op de naleving van de toepasselijke wettelijke voorschriften. Gezien de redactie van de hierboven genoemde wetsbepalingen is een vonnis niet vormvrij en dient het op straffe van nietigheid te voldoen aan de in die bepalingen voorgeschreven eisen.</para>
+              <para>Op grond van het voorgaande stelt het hof vast dat de 'uitspraak' van de rechtbank ter zitting van 12 juni 2014 geen vonnis inhoudende een einduitspraak betreft.</para>
+              <para>Er is derhalve geen sprake van een einduitspraak waartegen op de voet van het bepaalde in artikel 404 Sv hoger beroep kan worden ingesteld. De omstandigheid dat de voorzitter van de economische kamer van de rechtbank heeft gesteld dat geen schriftelijk vonnis meer zal volgen maakt dit oordeel niet anders. In dit verband wijst het hof er voorts op dat de mededeling door de voorzitter over de aanvang van de appeltermijn, wat hier verder ook van zij, niet bepalend is voor de vraag of het een appellabele uitspraak betreft.</para>
+              <para>Het voorgaande leidt ertoe dat de officier van justitie niet-ontvankelijk in het hoger beroep dient te worden verklaard."</para>
+            </parablock>
+          </paragroup>
+        </paragroup>
+        <paragroup>
+          <nr>2.3.</nr>
+          <para>De beslissing van de Rechtbank tot niet-ontvankelijkverklaring van de Officier van Justitie in de vervolging is een einduitspraak in de zin van art. 138 Sv. Ingevolge art. 404, eerste lid, Sv staat tegen een dergelijke einduitspraak hoger beroep open. Het Hof heeft de Officier van Justitie dus ten onrechte niet-ontvankelijk verklaard in het ingestelde hoger beroep. De omstandigheid dat de Rechtbank heeft volstaan met het geven van een mondeling vonnis dat is aangetekend in het proces-verbaal van de terechtzitting, kan grond vormen voor vernietiging van dat vonnis in hoger beroep op de grond dat het niet aan de voorschriften van de art. 358 en 359 Sv voldoet, maar brengt niet mee dat geen sprake is van een einduitspraak waartegen hoger beroep kan worden ingesteld.</para>
+          <para />
+        </paragroup>
+        <paragroup>
+          <nr>2.4.</nr>
+          <para>Het middel is terecht voorgesteld.</para>
+          <para />
+        </paragroup>
+      </section>
+      <section role="beslissing">
+        <title>
+          <nr>3</nr>Slotsom</title>
+        <para />
+        <parablock>
+          <para>Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak niet in stand kan blijven en als volgt moet worden beslist.</para>
+        </parablock>
+        <para />
+      </section>
+      <section role="beslissing">
+        <title>
+          <nr>4</nr>Beslissing</title>
+        <para />
+        <parablock>
+          <para>De Hoge Raad:</para>
+          <para>vernietigt de bestreden uitspraak;</para>
+          <para>wijst de zaak terug naar het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, Economische Kamer, opdat de zaak opnieuw wordt berecht en afgedaan.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>	Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu en A.L.J. van Strien, in bijzijn van de waarnemend griffier, E. Schnetz en uitgesproken ter openbare terechtzitting van <emphasis role="underline">5 januari 2016</emphasis>.</para>
+        </parablock>
+      </section>
+    </uitspraak>
+</open-rechtspraak>
